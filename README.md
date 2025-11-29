@@ -1,6 +1,10 @@
-The three tasks together: First: splash screen
-Second: list
-Third: cart
+## The three tasks together: First: splash screen
+
+## Second: list
+
+## Third: cart
+
+
 ## App Demo 🎥
 
 ![App Demo](assets/SmartSelect_Video_Player.gif)
